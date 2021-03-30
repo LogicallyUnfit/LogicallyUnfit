@@ -2,3 +2,4 @@
 - 👀 I’m interested in Programming, bots and scripts revolving around Discord, WoW and random PhP things.
 - 🌱 I’m currently learning Python
 - 📫 reach me on Discord: LogicallyUnfit#1337
+- Added Discord hook
